@@ -1,4 +1,4 @@
-# 🧠 Adaptive AI Reasoning Evaluator
+# 🧠 ReasonBench
 
 A machine learning system that predicts whether AI-generated reasoning is correct using structured features and text-based analysis.
 
